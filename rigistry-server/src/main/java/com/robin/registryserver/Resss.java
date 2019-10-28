@@ -1,4 +1,4 @@
-package com.robin.rigistryserver;
+package com.robin.registryserver;
 
 import java.io.File;
 import java.io.FileInputStream;
